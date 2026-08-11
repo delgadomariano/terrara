@@ -2,7 +2,7 @@ export default function DashboardHome() {
   return (
     <div>
       <h1 style={{ fontFamily: 'var(--font-heading)', fontSize: '32px', marginBottom: '8px' }}>
-        Bienvenido al Dashboard
+        Bienvenido todos al Dashboard
       </h1>
       <p style={{ color: 'var(--text-muted)', marginBottom: '32px' }}>
         Resumen de tu plataforma Terrara.
